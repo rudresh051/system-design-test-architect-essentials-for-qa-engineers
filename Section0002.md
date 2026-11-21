@@ -8,4 +8,8 @@
 
 ![alt text](image-10.png)
 
-> Now if you are if you want to be a good architectural aware guy you should know how your back end components are connected. That is very very important.
+> Now if you are if you want to be a good architectural aware guy you should know how your back end components are connected. That is very very important.  
+
+## Introduction to Microservices driven backend Architecture and its advantages
+
+![alt text](image-11.png)
